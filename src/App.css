@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -35,4 +36,71 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.movie-container{
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  /* align-items: center;
+  height: 1000px; */
+ 
+}
+
+.movie-card{
+
+  width:200px;
+  height: 250px;
+  border-radius: 10px;
+
+  margin-top: 50px;
+  margin-left: 40px;
+  background-color: black;
+  color: white;
+ 
+  
+
+}
+
+img{
+  width: 100%;
+  height: 250px;
+}
+
+.movie-card:hover{
+  cursor: pointer;
+  transform: scale(1.03);
+}
+
+input{
+  width: 500px;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 50px;
+}
+
+.movieDiv{
+  color: white;
+  font-size: 100px;
+}
+
+p{
+  width: 200px;
+  height: 160px;
+  /* background-color: black; */
+  padding-top: 100px;
+  position: relative;
+  bottom: 280px;
+color: white;
+font-size: larger;
+  display: flex;
+  justify-content: center;
+
+  
+  opacity: 0;
+
+
+}
+p:hover{
+ opacity: 1;
 }
