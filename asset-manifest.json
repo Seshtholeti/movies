@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Seshtholeti/movies.git/static/css/main.33312473.css",
+    "main.js": "/Seshtholeti/movies.git/static/js/main.97d0d4a1.js",
+    "static/js/787.5190b461.chunk.js": "/Seshtholeti/movies.git/static/js/787.5190b461.chunk.js",
+    "index.html": "/Seshtholeti/movies.git/index.html",
+    "main.33312473.css.map": "/Seshtholeti/movies.git/static/css/main.33312473.css.map",
+    "main.97d0d4a1.js.map": "/Seshtholeti/movies.git/static/js/main.97d0d4a1.js.map",
+    "787.5190b461.chunk.js.map": "/Seshtholeti/movies.git/static/js/787.5190b461.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33312473.css",
+    "static/js/main.97d0d4a1.js"
+  ]
+}
